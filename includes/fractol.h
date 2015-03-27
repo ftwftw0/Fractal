@@ -6,7 +6,7 @@
 /*   By: flagoutt <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/03/09 15:48:39 by flagoutt          #+#    #+#             */
-/*   Updated: 2015/03/27 14:41:58 by flagoutt         ###   ########.fr       */
+/*   Updated: 2015/03/27 15:00:04 by flagoutt         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,6 +28,7 @@
 **	Here you can define various fractals parameters
 */
 # define ITERATIONS 100
+
 /*
 **	Keys
 */
