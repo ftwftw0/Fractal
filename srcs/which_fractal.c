@@ -6,7 +6,7 @@
 /*   By: flagoutt <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/02/12 00:04:27 by flagoutt          #+#    #+#             */
-/*   Updated: 2015/03/27 13:59:32 by flagoutt         ###   ########.fr       */
+/*   Updated: 2015/03/27 14:54:50 by flagoutt         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -98,7 +98,7 @@ void		which_fractal(t_mlxdata *data)
 			mlx_fractal_mandelcomplex(data);
 	}
 	mlx_key_hook(data->env.window, key_hook, data);
-	mlx_hook(data->env.window, 6, (1L<<6),
+	mlx_hook(data->env.window, 6, (1L << 6),
 			cursor_hook, data);
 	mlx_mouse_hook(data->env.window, mouse_hook, data);
 }
