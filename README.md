@@ -50,7 +50,7 @@ There are 7 fractal panel.
 - Full mandelbrot set in which you can change the equation exponent. (Takes some times to calculate as this one really use C complex numbers when others use usual integers.)
   Use < and > to modify exponent.
 
-[![Fractal](http://img.youtube.com/vi/nKS6YQt9B0U/0.jpg)](https://youtu.be/nKS6YQt9B0U "Fractal")
+[![Fractal](http://img.youtube.com/vi/nKS6YQt9B0U/1.jpg)](https://youtu.be/nKS6YQt9B0U "Fractal")
 
 PS : It takes some time to load highly magnified fractals as calculs need more precision. 
 
